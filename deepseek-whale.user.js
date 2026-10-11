@@ -2,8 +2,10 @@
 // @name         DeepSeek 鲸鱼娘挂件 & 对话一键导出
 // @namespace    https://github.com/teressalodas/deepseek-whale
 // @version      1.2.0
+// @author       teressalodas
 // @description  在 DeepSeek 网页右下角常驻的可交互、可戳的小鲸鱼娘挂件，带 Q 弹动画、音效、四边吸附、随机台词气泡与一键导出当前对话 (Markdown/JSON)
 // @license      AGPL-3.0
+// @icon         https://raw.githubusercontent.com/teressalodas/deepseek-whale/main/icon.png
 // @match        *://chat.deepseek.com/*
 // @grant        none
 // @run-at       document-idle
