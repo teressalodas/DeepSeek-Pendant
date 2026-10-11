@@ -12,8 +12,6 @@
   </a>
 </p>
 
-<p align="center">简体中文 | <a href="./README.en.md">English</a></p>
-
 DeepSeek Whale Widget 是一款免费开源的用户脚本，在 DeepSeek 网页右下角放一只可拖动的小鲸鱼娘挂件，并附带当前对话的一键导出。挂件支持 Q 弹动画、音效、四边吸附、随机台词气泡，导出支持 Markdown 和 JSON，并保留思考过程与引用来源。
 
 ## 安装
