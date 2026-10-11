@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/GitHub-%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC-red?style=for-the-badge&logo=github" alt="安装脚本" />
   </a>
   <a href="./LICENSE">
-    <img src="https://img.shields.io/badge/License-AGPL%203.0-blue.svg?style=for-the-badge" alt="License: AGPL-3.0" />
+    <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge" alt="License: Apache License 2.0" />
   </a>
 </p>
 
