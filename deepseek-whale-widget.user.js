@@ -4,7 +4,7 @@
 // @namespace           https://github.com/teressalodas/Deepseek-Whale-Widget
 // @version             1.2.0
 // @author              teressalodas
-// @license             AGPL-3.0
+// @license             Apache License 2.0
 // @icon                https://raw.githubusercontent.com/teressalodas/Deepseek-Whale-Widget/main/icon.png
 // @description         DeepSeek 网页右下角的可拖动小鲸鱼娘挂件：Q 弹动画、音效、边缘吸附、随机台词气泡，并支持一键导出当前对话为 Markdown / JSON（含思考过程与引用）。
 // @homepageURL         https://github.com/teressalodas/Deepseek-Whale-Widget
