@@ -1,6 +1,5 @@
 // ==UserScript==
-// @name                DeepSeek 鲸鱼娘挂件 & 对话一键导出
-// @name:en             DeepSeek Whale Widget & Chat Exporter
+// @name                DeepSeek Whale Widget
 // @namespace           https://github.com/teressalodas/Deepseek-Whale-Widget
 // @version             1.2.0
 // @author              teressalodas
