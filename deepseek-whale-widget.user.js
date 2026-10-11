@@ -1,16 +1,16 @@
 // ==UserScript==
 // @name                DeepSeek 鲸鱼娘挂件 & 对话一键导出
 // @name:en             DeepSeek Whale Widget & Chat Exporter
-// @namespace           https://github.com/teressalodas/deepseek-whale
+// @namespace           https://github.com/teressalodas/Deepseek-Whale-Widget
 // @version             1.2.0
 // @author              teressalodas
 // @license             AGPL-3.0
 // @icon                https://raw.githubusercontent.com/teressalodas/deepseek-whale/main/icon.png
 // @description         DeepSeek 网页右下角的可拖动小鲸鱼娘挂件：Q 弹动画、音效、边缘吸附、随机台词气泡，并支持一键导出当前对话为 Markdown / JSON（含思考过程与引用）。
-// @homepageURL         https://github.com/teressalodas/deepseek-whale
-// @supportURL          https://github.com/teressalodas/deepseek-whale/issues
-// @updateURL           https://raw.githubusercontent.com/teressalodas/deepseek-whale/main/deepseek-whale.user.js
-// @downloadURL         https://raw.githubusercontent.com/teressalodas/deepseek-whale/main/deepseek-whale.user.js
+// @homepageURL         https://github.com/teressalodas/Deepseek-Whale-Widget
+// @supportURL          https://github.com/teressalodas/Deepseek-Whale-Widget/issues
+// @updateURL           https://raw.githubusercontent.com/teressalodas/Deepseek-Whale-Widget/main/deepseek-whale-widget.user.js
+// @downloadURL         https://raw.githubusercontent.com/teressalodas/Deepseek-Whale-Widget/main/deepseek-whale-widget.user.js
 // @match               *://chat.deepseek.com/*
 // @grant               none
 // @run-at              document-idle
