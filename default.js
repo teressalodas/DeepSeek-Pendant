@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         DeepSeek 鲸鱼娘挂件 & 对话一键导出
-// @namespace    https://github.com/AfterThink/deepseek-whale
+// @namespace    https://github.com/teressalodas/deepseek-whale
 // @version      1.2.0
 // @description  在 DeepSeek 网页右下角常驻的可交互、可戳的小鲸鱼娘挂件，带 Q 弹动画、音效、四边吸附、随机台词气泡与一键导出当前对话 (Markdown/JSON)
 // @license      AGPL-3.0
 // @match        *://chat.deepseek.com/*
 // @grant        none
 // @run-at       document-idle
-// @downloadURL https://update.greasyfork.org/scripts/592675/DeepSeek%20%E9%B2%B8%E9%B1%BC%E5%A8%98%E6%8C%82%E4%BB%B6%20%20%E5%AF%B9%E8%AF%9D%E4%B8%80%E9%94%AE%E5%AF%BC%E5%87%BA.user.js
-// @updateURL https://update.greasyfork.org/scripts/592675/DeepSeek%20%E9%B2%B8%E9%B1%BC%E5%A8%98%E6%8C%82%E4%BB%B6%20%20%E5%AF%B9%E8%AF%9D%E4%B8%80%E9%94%AE%E5%AF%BC%E5%87%BA.meta.js
+// @downloadURL 
+// @updateURL    
 // ==/UserScript==
 
 (function () {
